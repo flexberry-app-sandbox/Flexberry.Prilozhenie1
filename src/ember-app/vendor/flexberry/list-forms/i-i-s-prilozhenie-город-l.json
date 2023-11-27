@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-город-e",
+  "editForm": "i-i-s-prilozhenie-город-e",
+  "external": false,
+  "caption": "Город",
+  "name": "IISPrilozhenieГородL",
+  "className": "ГородL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-город",
+      "modelProjection": "ГородL"
+    }
+  ]
+}

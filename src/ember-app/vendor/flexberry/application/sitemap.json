@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Prilozhenie",
+  "applicationTitle": "Prilozhenie",
+  "items": [
+    {
+      "link": null,
+      "menuName": "prilozhenie",
+      "caption": "Prilozhenie",
+      "title": "Prilozhenie",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-улица-l",
+          "menuName": null,
+          "caption": "Улица",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
